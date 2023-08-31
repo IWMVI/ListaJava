@@ -1,4 +1,4 @@
-package Modularização;
+package modularizacao;
 
 import java.util.Scanner;
 
