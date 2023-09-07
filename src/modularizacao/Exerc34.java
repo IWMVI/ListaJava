@@ -10,6 +10,7 @@ public class Exerc34 {
 
 		System.out.print("Informe um valor: ");
 		int valor = sc.nextInt();
+		System.out.println();
 
 		tabuada(valor);
 		sc.close();
